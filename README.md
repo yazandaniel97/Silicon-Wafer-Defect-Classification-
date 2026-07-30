@@ -160,7 +160,7 @@ Because a missed defect can propagate across thousands of wafers, any rollout sh
 
 ## Team
 
-Rihani, Y. · Haggag, S. · Gomaa, A. · Tamer, A.
+Rihani, Y. · Haggag, S. 
 Applied Natural Sciences and Industrial Engineering — Deggendorf Institute of Technology
 
 ## References
