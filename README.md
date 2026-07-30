@@ -1,4 +1,4 @@
-# Case Study: Silicon Wafer Defect Classification
+# Case Study ML/DL: Silicon Wafer Defect Classification
 
 **A Comparative Study of CNN, VGG16, VGG16+CBAM, and YOLOv8s-cls on the WM-811K dataset**
 
