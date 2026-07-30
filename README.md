@@ -100,7 +100,7 @@ All models used the Adam optimiser and sparse categorical cross-entropy. CNN and
 ###  Results Visualization
 ### VGG16 + CBAM — Loss Curve
 
-![Loss curve VGG16+CBAM](assets/Loss_curve_VGG16+CBAM.jpg)
+![Loss curve VGG16+CBAM](Loss_curve_VGG16+CBAM.jpg)
 
 
 ### What each result means
