@@ -1,3 +1,6 @@
+#<img width="900" height="500" alt="image" src="https://github.com/user-attachments/assets/21f28d1d-01c2-4bf1-99ec-cc95f164763e" />
+
+
 # Case Study ML/DL: Silicon Wafer Defect Classification
 
 **A Comparative Study of CNN, VGG16, VGG16+CBAM, and YOLOv8s-cls on the WM-811K dataset**
