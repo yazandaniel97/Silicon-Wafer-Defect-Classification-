@@ -24,7 +24,7 @@ The **WM-811K** dataset (Wu et al., 2015) contains 811,457 raw wafer maps from 4
 
 The task is a **9-class** problem: 8 spatial defect patterns plus a defect-free class. The core challenge is extreme imbalance — the `none` class alone makes up 85.2% of all samples.
 
-| Class      | Samples  |
+| Class      | Samples  |              <img width="941" height="542" alt="image" src="https://github.com/user-attachments/assets/03bf7a7d-3cc3-4652-abaf-66fae97f4b34" />
 |------------|----------|
 | none       | 147,431  |
 | Edge-Ring  | 9,680    |
