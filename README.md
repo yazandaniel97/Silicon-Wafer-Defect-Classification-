@@ -4,7 +4,7 @@
 
 Comparing four deep learning approaches for classifying silicon wafer defect patterns, with a focus on how each one handles extreme class imbalance. Overall accuracy turns out to be a weak discriminator — the real story is in the per-class F1 on rare defect types.
 
-*Rihani, Y. · Haggag, S. · Gomaa, A. · Tamer, A. — Deggendorf Institute of Technology (DIT)*
+*Rihani, Y. · Haggag, S. — Deggendorf Institute of Technology (DIT)*
 
 ---
 
