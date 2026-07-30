@@ -97,6 +97,12 @@ All models used the Adam optimiser and sparse categorical cross-entropy. CNN and
 
 <sub>\* YOLO figures estimated from its normalised confusion matrix — no per-class precision/recall table was produced.</sub>
 
+###  Results Visualization
+### VGG16 + CBAM — Loss Curve
+
+![Loss curve VGG16+CBAM](assets/Loss_curve_VGG16+CBAM.jpg)
+
+
 ### What each result means
 
 - **Custom CNN** — 95.57% accuracy, and Scratch F1 jumped from the 59% MathWorks baseline to **82.7%** after adding BatchNorm + L2 and deterministic 6× oversampling. *Caveat: oversampling happened before the split, so treat 82.7% as an optimistic upper bound.*
