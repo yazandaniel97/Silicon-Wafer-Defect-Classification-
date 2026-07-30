@@ -44,10 +44,10 @@ The rarest defect class (Near-full) is outnumbered by the dominant class by roug
 
 | Model | Type | Backbone | Params | Imbalance strategy |
 |-------|------|----------|--------|--------------------|
-| **A — Custom CNN** | Own model, trained from scratch | MathWorks reference arch. | ~400K | 6× geometric oversampling |
-| **B — VGG16** | Benchmark | ImageNet pretrained | ~134M | WeightedRandomSampler |
-| **C — VGG16 + CBAM** | Benchmark | ImageNet pretrained + attention | ~134M | WeightedRandomSampler + attention |
-| **D — YOLOv8s-cls** | Benchmark | CSPDarknet (ImageNet) | ~12M | Built-in augmentation only |
+|  Custom CNN** | Own model, trained from scratch | MathWorks reference arch. | ~400K | 6× geometric oversampling |
+|  VGG16** | Benchmark | ImageNet pretrained | ~134M | WeightedRandomSampler |
+|  VGG16 + CBAM** | Benchmark | ImageNet pretrained + attention | ~134M | WeightedRandomSampler + attention |
+|  YOLOv8s-cls** | Benchmark | CSPDarknet (ImageNet) | ~12M | Built-in augmentation only |
 
 > **Custom CNN** was designed and trained by our team from scratch. **VGG16 / +CBAM / YOLOv8s-cls** are built on pretrained backbones and serve as benchmarks.
 
