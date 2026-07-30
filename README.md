@@ -106,7 +106,9 @@ All models used the Adam optimiser and sparse categorical cross-entropy. CNN and
 
 ![CNN loss curve](Loss_curve_CNN.jpeg)
 
+### YOLOV8_cls — Loss Curve
 
+![YOLOv8s-cls loss curve](Loss_curve_YOLOV8_cls.jpeg)
 
 ### What each result means
 
