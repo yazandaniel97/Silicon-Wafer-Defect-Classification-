@@ -1,4 +1,4 @@
-#<img width="900" height="500" alt="image" src="https://github.com/user-attachments/assets/21f28d1d-01c2-4bf1-99ec-cc95f164763e" />
+<img width="900" height="188" alt="technische-hochschule-deggendorf-vector-logo" src="https://github.com/user-attachments/assets/8bc5eec8-a582-43ed-8757-912004cf22e3" />
 
 
 # Case Study ML/DL: Silicon Wafer Defect Classification
